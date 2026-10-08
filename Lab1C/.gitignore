@@ -1,0 +1,12 @@
+
+# Compiled executable
+hello.exe
+
+# Debug files
+*.o
+*.obj
+*.exe
+*.out
+
+# Visual Studio Code workspace settings
+.vscode/
